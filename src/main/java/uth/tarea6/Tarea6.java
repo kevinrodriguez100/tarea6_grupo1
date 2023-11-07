@@ -5,7 +5,7 @@
 package uth.tarea6;
 
 /**
- *Parte realizada por 202310060257Kevin-Rodriguez :
+ *Parte realizada por 202310060257Kevin-Rodriguez
  * @author ksalo
  */
 public class Tarea6 {
