@@ -5,7 +5,7 @@
 package helpers;
 
 /**
- *
+ *Parte realizada por 202310060257Kevin-Rodriguez
  * @author ksalo
  */
 public abstract class Persona {
