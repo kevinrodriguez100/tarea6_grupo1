@@ -71,7 +71,7 @@ public abstract class Persona {
     
     //polimorfismo
     
-    abstract String subclase();//tiene que retornar un string con el nombre de la subclase que se le asigno
+    abstract String subclase();//tiene que retornar un string con el nombre de la subclase que se le asigno (nombre)
     
     abstract String especialidades(); //retornar una lista de especialidades de la clase ya sea estudios u orientaciones
 
