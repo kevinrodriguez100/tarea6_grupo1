@@ -75,5 +75,18 @@ public abstract class Persona {
     
     abstract String especialidades(); //retornar una lista de especialidades de la clase ya sea estudios u orientaciones
 
+    public void impirmirInformacion(){
+        System.out.println( "SubClase:"   + subclase ());
+    System.out.println("Nombre:  "+ nombre);
+     System.out.println("Apellido:  " + apellido);
+      System.out.println("Recidencia: "+ residencia);
+     System.out.println("   Edad:  "+ edad);
+      System.out.println(salario+ "   Salario  ");
+       System.out.println( "Objetivo Laboral:  " + Objetivolabor ());
+     System.out.println( "Estudios: "   + estudiosU ());
+     System.out.println( "Especialidad: "   + especialidades ());
+     
+     
     
+}
 }
